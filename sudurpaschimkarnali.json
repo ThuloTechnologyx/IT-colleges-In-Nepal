@@ -1,0 +1,332 @@
+[
+  {
+    "collegeName": "Surkhet Campus Education",
+    "shortDescription": "Surkhet Campus is one of the constituent of Tribhuvan University in far and mid-western development region of Nepal.",
+    "longDescription": "This offers Bachelor of Education in Information Communication Technology (BEd ICT),which is a 4-year undergraduate program The bachelor's degree program that introduces students to modern education systems and computer science, emphasizing the application of information and communication technology. It comprises 8 semesters, totaling 138 credit hours which includes 12 credit hours for communication skills, 24 credit hours for educational core courses, 60 credit hours for specialization in major subjects, 30 credit hours for minor subjects, and 9 credit hours for teaching internship.",
+    "address": "Birendranagar-9, Chakrapani, Birendranagar, Surkhet",
+    "contact": "+977-083-520307",
+    "mail": "info@sc.tu.edu.np",
+    "province": "Karnali",
+    "image": "https://media.edusanjal.com/__sized__/cover_photo/Surkhet-Campus-thumbnail-1400x280-70.jpg",
+    "map": "https://maps.app.goo.gl/5SnhfFJ3bvjfnZSs8",
+    "website": "https://surkhetcampus.edu.np/site/",
+    "courses": [
+      {
+        "courseName": "Bachelor of Education in Information Communication Technology (BICTE)",
+        "duration": "4 years",
+        "degree": "BEd ICT",
+        "affilitated_by": "Tribhuvan University"
+      }
+    ]
+  },
+  {
+    "collegeName": "Surkhet Model College",
+    "shortDescription": "Surkhet Model College is a well-regarded educational institution dedicated to offering quality education and promoting academic excellence.",
+    "longDescription": "This offers the BIM program which is an undergraduate degree program that focuses on the development and management of information technology systems.It is a Four Year (8 Semester) study program.",
+    "address": "Birendranagar-08,Surkhet",
+    "contact": "+977-083-525414",
+    "mail": "smc@smcsurkhet.edu.np",
+    "province": "Karnali",
+    "image": "https://smcsurkhet.edu.np/storage/144/smc-+2-banner.png",
+    "map": "https://maps.app.goo.gl/gWMy4iBCbiakVNFw8",
+    "website": "https://smcsurkhet.edu.np/",
+    "courses": [
+      {
+        "courseName": "Bachelor in Information Management (BIM)",
+        "duration": "4 years",
+        "degree": "BIM",
+        "affilitated_by": "Tribhuvan University"
+      }
+    ]
+  },
+  {
+    "collegeName": "Sahara Campus",
+    "shortDescription": "Sahara Campus is a prestigious college and recognized as a beacon of quality education in Nepal's mid-west region.",
+    "longDescription": "This offers a 4-year 8-semester programme ;Bachelor in Computer Application (BCA), Bachelor in Information Management (BIM),BSc Computer Science and Information Technology (BSc CSIT) which are popular course for careers in IT as it meets student backgrounds & career aspirations.",
+    "address": "Birendranagar-08, Surkhet",
+    "contact": "+977-083-520118",
+    "mail": "info@saharacampus.edu.np",
+    "province": "Karnali",
+    "image": "https://www.saharacampus.edu.np/wp-content/uploads/2020/04/sahara-popup.png",
+    "map": "https://maps.app.goo.gl/KdigwfGdecNgiuzk7",
+    "website": "https://www.saharacampus.edu.np/",
+    "courses": [
+      {
+        "courseName": "Bachelor in Computer Application (BCA)",
+        "duration": "4 years",
+        "degree": "BCA",
+        "affilitated_by": "Tribhuvan University"
+      },
+      {
+        "courseName": "Bachelor in Information Management (BIM)",
+        "duration": "4 years",
+        "degree": "BIM",
+        "affilitated_by": "Tribhuvan University"
+      },
+      {
+        "courseName": "BSc Computer Science and Information Technology (BSc CSIT)",
+        "duration": "4 years",
+        "degree": "BSc CSIT",
+        "affilitated_by": "Tribhuvan University"
+      }
+    ]
+  },
+  {
+    "collegeName": "Graduate School of Science and Technology | Mid-West University",
+    "shortDescription": "The School of Sciences and Technology (SOST) is engaged in reaching out to the community and expanding the academic offer of the Mid-Western University in Science and Technology.",
+    "longDescription": "This offers a 4-year 8-semester programme ;Bsc Computer Science and Information Technology (Bsc CSIT) which are popular course for careers in IT as it meets student backgrounds & career aspirations.",
+    "address": "Birendranagar-08,Surkhet",
+    "contact": "+977-083-521315",
+    "mail": "info@mwu.edu.np",
+    "province": "Karnali",
+    "image": "https://scontent.fpkr1-1.fna.fbcdn.net/v/t39.30808-6/408496666_1090563609028200_2298181170458846859_n.jpg?stp=dst-jpg_p960x960&_nc_cat=106&ccb=1-7&_nc_sid=783fdb&_nc_ohc=lr0L1FKvL_YAX_9urm9&_nc_ht=scontent.fpkr1-1.fna&oh=00_AfC56ZMtHfcYK8Wzc6CZLv_2HLhongwGgp9mfvnR34qhjA&oe=6591A684",
+    "map": "https://maps.app.goo.gl/kwv9HFCv6XU2MRzH9",
+    "website": "https://www.ccst.mwu.edu.np/",
+    "courses": [
+      {
+        "courseName": "BSc Computer Science and Information Technology (BSc CSIT)",
+        "duration": "4 years",
+        "degree": "BSc CSIT",
+        "affilitated_by": "Mid-Western University"
+      }
+    ]
+  },
+  {
+    "collegeName": "Birendra Secondary School Banfikot",
+    "shortDescription": "Birendra Secondary School Banfikot is located in Banfikot, Rukum West, Karnali Pradesh of Nepal.",
+    "longDescription": "It is a public academic institute and recognized by Ministry of Education (MoE), Nepal.This offers Diploma level programs such as Diploma in Computer Engineering for 48 seats each year.",
+    "address": "Banfikot, Rukum West",
+    "contact": "NA",
+    "mail": "NA",
+    "province": "Karnali",
+    "image": "NA",
+    "map": "https://maps.app.goo.gl/AavUNdq9gGip6kfV8",
+    "website": "NA",
+    "courses": [
+      {
+        "courseName": "Diploma in Computer Engineering",
+        "duration": "3 years",
+        "degree": "Diploma",
+        "affilitated_by": "CTEVT"
+      }
+    ]
+  },
+  {
+    "collegeName": "Sudur Pashchimanchal Campus/Academy",
+    "shortDescription": "Sudur Paschimanchal Campus (also known as SPA College) was established with a noble aim of imparting education par excellence; is one of the most successful leading colleges in the far western region.",
+    "longDescription": "It offers Bachelor of Information Management(BIM) which comprises eight semesters over the course of four years. The curriculum includes core courses in the areas of programming, database, systems analysis, and design, software engineering, web development, e-commerce, and other related topics.",
+    "address": "Santoshi tole-2, Dhangadhi, Nepal",
+    "contact": "977-091-520392",
+    "mail": "spadhangadhi@gmail.com",
+    "province": "sudurpaschim",
+    "image": "https://i0.wp.com/saralnotes.com/wp-content/uploads/2019/11/Sudur-Paschimanchal-Campus.jpg?fit=960%2C800&ssl=1",
+    "map": "https://maps.app.goo.gl/JPMf2fAcefzFrC4U7",
+    "website": "https://spacampus.edu.np/",
+    "courses": [
+      {
+        "courseName": "Bachelor of Information Management (BIM)",
+        "duration": "4 years",
+        "degree": "BIM",
+        "affilitated_by": "Tribhuvan University"
+      }
+    ]
+  },
+  {
+    "collegeName": "Kailali Multiple Campus",
+    "shortDescription": "Kailali Multiple Campus (KMC) is located in Dhangadhi, the headquarter of Seti Zone of Far Western Nepal.",
+    "longDescription": "It offers BSc in Computer Science and Information Technology (BSc CSIT)years course with 8 Semester,BEd Computer Science and Information Technology(BEd CSIT).",
+    "address": "Santoshi tole-2, Dhangadhi, Nepal",
+    "contact": "977-091-521223",
+    "mail": "kailai@fwu.edu.np",
+    "province": "sudurpaschim",
+    "image": "https://www.bbscollegenepal.com/wp-content/uploads/2022/05/kailali-multiple-campus.jpg",
+    "map": "https://maps.app.goo.gl/5rT188JMsbdZtUf59",
+    "website": "https://kailalicampus.edu.np/",
+    "courses": [
+      {
+        "courseName": "BSc in Computer Science and Information Technology (BSc CSIT)",
+        "duration": "4 years",
+        "degree": "BSc CSIT",
+        "affilitated_by": "Far-Western University"
+      },
+      {
+        "courseName": "BEd Computer Science and Information Technology(BEd CSIT)",
+        "duration": "NA",
+        "degree": "BEd CSIT",
+        "affilitated_by": "Far-Western University"
+      }
+    ]
+  },
+  {
+    "collegeName": "Durgalaxmi Multiple Campus",
+    "shortDescription": "Durgalaxmi Multiple Campus is a community college at Dhangadhi, Kailali.",
+    "longDescription": "Durgalaxmi Multiple Campus was established with the affiliation to Tribhuvan University later on it formally amalgamated with Farwestern University as a constituent campus, offering FWU programs which offers BEd Computer Science and Information Technology(BEd CSIT)",
+    "address": "Attariya, Dhangadhi, Kailali",
+    "contact": "977-091-550383",
+    "mail": "durgalaxmi@fwu.edu.np",
+    "province": "sudurpaschim",
+    "image": "https://i.ytimg.com/vi/1iIjWJQ0KJw/maxresdefault.jpg",
+    "map": "https://maps.app.goo.gl/7iHoHwZDJJukiwTH7",
+    "website": "http://durgalaxmi.fwu.edu.np/",
+    "courses": [
+      {
+        "courseName": "BEd Computer Science and Information Technology(BEd CSIT)",
+        "duration": "NA",
+        "degree": "BEd CSIT",
+        "affilitated_by": "Far-Western University"
+      }
+    ]
+  },
+  {
+    "collegeName": "Ghodaghodi Multiple Campus",
+    "shortDescription": "Ghodaghodi Multiple Campus (GMC), an esteemed educational institution in the heart of Kailali district, Nepal.",
+    "longDescription": "Ghodaghodi Multiple Campus is one of the leading reputed community campuses in the far-western region. affiliated with Tribhuvan University (TU) and is named after the renowned Ghodaghodi Lake and it offers Bachelor of Education in Information Communication Technology(BICTE).This is 4-year program consists of 138 credit hours over 8 semesters.",
+    "address": "Ghodaghodi, Kailali",
+    "contact": "977-091-403117",
+    "mail": "ghodaghodimultiplecampus@gmail.com",
+    "province": "sudurpaschim",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ-H963DfaPd6Jj9ty_gP0-hXAJLQabWeEnWQGXsYp8A&s",
+    "map": "https://maps.app.goo.gl/Wq11a89TJUSky7c8A",
+    "website": "https://ghodaghodicampus.edu.np/",
+    "courses": [
+      {
+        "courseName": "Bachelor of Education in Information Communication Technology(BICTE)", 
+        "duration": "4 years",
+        "degree": "BICTE",
+        "affilitated_by": "Tribhuvan University"
+      }
+    ]
+  },
+  {
+    "collegeName": "National Academy of Science and Technology (Dhangadi Engineering College)",
+    "shortDescription": "National Academy of Science and Technology, popularly known as NAST, is an QAA Certified, english medium co- educational Institution.",
+    "longDescription": "NAST also known as the first and only engineering college in Mid Western and Far Western development regions was established with the primary aim of becoming a center of academic excellence in the fields of science, technology, and management.This offers Bachelor of Computer Application (BCA),Bachelor of Computer Engineering (B.E. Computer) which are 4 years technical academic programme with 8 semesters.",
+    "address": "Dhangadhi-04, Uttar Behadi",
+    "contact": "+977-091-523312, 523949",
+    "mail": "nastdhn@gmail.com",
+    "province": "sudurpaschim",
+    "image": "https://nast.edu.np/wp-content/uploads/2022/08/nast.jpg",
+    "map": "https://maps.app.goo.gl/cNDKqpJhEtc5Sp8y7",
+    "website": "https://nast.edu.np/",
+    "courses": [
+      {
+        "courseName": "Bachelor of Computer Engineering (BE Computer)",
+        "duration": "4 years",
+        "degree": "BE Computer",
+        "affilitated_by": "Pokhara University"
+      },
+      {
+        "courseName": "Bachelor of Computer Application (BCA)",
+        "duration": "4 years",
+        "degree": "BCA",
+        "affilitated_by": "Pokhara University"
+      }
+    ]
+  },
+  {
+    "collegeName": "Doti Multiple Campus",
+    "shortDescription": "Doti Multiple Campus is one of the constituent campuses of Tribhuvan University located in Doti district of western Nepal.",
+    "longDescription": "Doti Multiple Campus is the oldest higher education institution in far-west province which is a government campus and it also provides scholarships for deserving students and in limited seats for needy students.This offers Bachelor of Computer Application (BCA) which is 4 years course with 8 semesters.",
+    "address": "Silgadhi, Doti",
+    "contact": "+977-094-411110",
+    "mail": "info@domc.tu.edu.np",
+    "province": "sudurpaschim",
+    "image": "https://www.campuskit.org/admin/uploads/college-gallery/thumbs/11204910_859198677484108_6622152099599013517_n.jpg",
+    "map": "https://maps.app.goo.gl/NTZgScNg5KXXTrJR6",
+    "website": "https://domc.tu.edu.np/",
+    "courses": [
+      {
+        "courseName": "Bachelor of Computer Application (BCA)",
+        "duration": "4 years",
+        "degree": "BCA",
+        "affilitated_by": "Tribhuvan University"
+      }
+    ]
+  },
+  {
+    "collegeName": "Bajura Campus",
+    "shortDescription": "Bajura Campus has been established as a community-based center of higher education in Badimalika Municipality.",
+    "longDescription": "The campus has been running as a constituent campus of Far WesternUniversity as the contemporary government approved policy of Far Western Universityto make fifteen campuses constituent ones established in Far Western Region which offers BEd Computer Science and Information Technology(BEd CSIT).",
+    "address": "Badimalika Municipality-08, Martadi, Bajura",
+    "contact": "977-097-541175",
+    "mail": "bajura@fwu.edu.np",
+    "province": "sudurpaschim",
+    "image": "https://lh3.googleusercontent.com/p/AF1QipOlBrD4cfYoBL_lXdCxqZ7Q62pKZtHG2vyN84-A=s1360-w1360-h1020",
+    "map": "https://maps.app.goo.gl/251PYrek9qx9FiycA",
+    "website": "http://bajura.fwu.edu.np/",
+    "courses": [
+      {
+        "courseName": "BEd Computer Science and Information Technology(BEd CSIT)",
+        "duration": "NA",
+        "degree": "BEd CSIT",
+        "affilitated_by": "Far-Western University"
+      }
+    ]
+  },
+  {
+    "collegeName": "Janajyoti Multiple Campus",
+    "shortDescription": "Janjyoti Multiple Campus was established by a team of education enthusiasts. The sole aim of the campus is to raise the quality of education in the Far Western Development Region.",
+    "longDescription": "With the private investment, Janjyoti Multiple Campus has been established to fulfill the demand of education in the Far Western Region which offers Bachelor of Computer Application (BCA) which is 4 years course with 8 semesters.",
+    "address": "Bhimdattnagar-18, Bhansi-Kanchanpur",
+    "contact": "+977-99-523831",
+    "mail": "NA",
+    "province": "sudurpaschim",
+    "image": "https://www.collegenp.com/uploads/2018/05/Janajyoti-Multiple-Campus-mahendranagar.jpg",
+    "map": "https://maps.app.goo.gl/ghsM6DPGHhu7rbps6",
+    "website": "NA",
+    "courses": [
+      {
+        "courseName": "Bachelor of Computer Application (BCA) ",
+        "duration": "4 years",
+        "degree": "BCA",
+        "affilitated_by": "Far Western University"
+      }
+    ]
+  },
+  {
+    "collegeName": "Siddhanath Science Campus",
+    "shortDescription": "Siddhanath Science Campus is a community-based campus, as it is managed by the community.",
+    "longDescription": "Siddhanath Science Campus, the glory of Far Western Region, has earned its name and fame in science faculty across Nepal which offers BSc Computer Science and Information Technology (BSc CSIT) and Bachelors in Information Technology (BIT) which is 4 years course with 8 semesters.",
+    "address": "Mahendra Nagar, Kanchanpur",
+    "contact": "+977-099-521304 / 099-521220",
+    "mail": " info@snsc.edu.np",
+    "province": "sudurpaschim",
+    "image": "https://bitcollegenepal.com/wp-content/uploads/siddartha-science-campus.jpg",
+    "map": "https://maps.app.goo.gl/1T1BaPKxqAtJ7FNJ7",
+    "website": "https://www.snsc.edu.np/",
+    "courses": [
+      {
+        "courseName": "BSc Computer Science and Information Technology (BSc CSIT) ",
+        "duration": "4 years",
+        "degree": "BSc CSIT",
+        "affilitated_by": "Tribhuvan University"
+      },
+      {
+        "courseName": "Bachelors in Information Technology (BIT)",
+        "duration": "4 years",
+        "degree": "BIT",
+        "affilitated_by": "Tribhuvan University"
+      }
+    ]
+  },
+  {
+    "collegeName": "Dadeldhura Campus",
+    "shortDescription": "Dadeldhura Campus is a leading educational campus of the far western region of Nepal.",
+    "longDescription": "Dadeldhura campus is one of the constituent campus situated in the hilly area of far-western province of Nepal.It offers Bachelor of Education in Information Communication Technology(BICTE) which is 4 years course with 8 semesters which is introduced to make students familiar with the modern education systems and computer science.",
+    "address": "Amargadhi, Dadeldhura",
+    "contact": "+977-096-410189",
+    "mail": "info@dc.tu.edu.np",
+    "province": "sudurpaschim",
+    "image": "https://www.campuskit.org/admin/uploads/college-gallery/thumbs/59520_117083215013139_6335662_n.jpg",
+    "map": "https://maps.app.goo.gl/kmvZ9ZbU8ZJoGvaW9",
+    "website": "https://dc.tu.edu.np/",
+    "courses": [
+      {
+        "courseName": "Bachelor of Education in Information Communication Technology(BICTE)",
+        "duration": "4 years",
+        "degree": "BEd ICT",
+        "affilitated_by": "Tribhuvan University"
+      }
+    ]
+  }
+]
