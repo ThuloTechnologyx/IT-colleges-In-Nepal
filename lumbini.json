@@ -1,0 +1,614 @@
+[
+    {
+        "collegeName": "Mahendra Multiple Campus",
+        "shortDescription": "With a rich history and commitment to excellence, it continues to attract over 5000 students each year.",
+        "longDescription": "Mahendra Multiple Campus Nepalgunj, established in 1957 AD, is one of the oldest and most prestigious educational institutions in Nepal. Located in Nepalgunj-13, Bhansar Road, Banke district, the campus is affiliated with Tribhuvan University and approved by the University Grants Commission of Nepal. With a rich history and commitment to excellence, it continues to attract over 5000 students each year.",
+        "address": "Nepalgunj, Banke",
+        "contact": "081-528041 / 521275",
+        "mail": "info@mmcampus.edu.np",
+        "province": "Lumbini",
+        "image": "https://www.mmcn.edu.np/wp-content/uploads/2023/07/welcome.jpg",
+        "map": "https://maps.app.goo.gl/uxHYCWufVDGyQRVw5",
+        "website": "https://www.mmcn.edu.np/",
+        "courses": [
+            {
+                "courseName": "Bachelor of Computer Application",
+                "duration": "4 years",
+                "degree": "BCA",
+                "affiliated_by": "Tribhuvan University (TU)"
+            }
+        ]
+    },
+    {
+        "collegeName": "Banke Bageshwori Campus",
+        "shortDescription": "It is affiliated with Tribhuvan University and stands at the forefront of IT and computing education.",
+        "longDescription": "Banke Bageshwori Campus was established in 2013 AD located in Surkhet Road, Nepalgunj, Banke district of Nepal. It is affiliated with Tribhuvan University and stands at the forefront of IT and computing education. Driven by a team of seasoned academicians, computer engineers, IT experts, and management professionals, BBC offers comprehensive BSc CSIT and BCA programs. These programs are meticulously designed to equip +2 graduates with skills essential for thriving in the dynamic IT landscape.",
+        "address": "Surkhet Road, Nepalgunj, Banke",
+        "contact": "081-528041 / 521275",
+        "mail": "bbcollege2071@gmail.com",
+        "province": "Lumbini",
+        "image": "https://kaha6.com/wp-content/uploads/Banke-Bageshwori-College-B.Sc_.CSIT-BCA.-Sindhuli.jpg",
+        "map": "https://maps.app.goo.gl/Ksu84BefCq1yQDmD6",
+        "website": "https://www.bbc.edu.np/",
+        "courses": [
+            {
+                "courseName": "Bachelor of Computer Application",
+                "duration": "4 years",
+                "degree": "BCA",
+                "affiliated_by": "Tribhuvan University (TU)"
+            },
+            {
+                "courseName": "Bachelor of Science in Computer Science and Information Technology (BSc. CSIT)",
+                "duration": "4 years",
+                "degree": "Bsc.Csit",
+                "affiliated_by": "Tribhuvan University (TU)"
+            }
+        ]
+    },
+    {
+        "collegeName": "College of Engineering and Management",
+        "shortDescription": "College of Engineering and Management (CoEM) affiliated to Pokhara University.",
+        "longDescription": "College of Engineering and Management (CoEM) affiliated to Pokhara University was established in 2013 A.D. (2073 B.S.) with the effort of a team consisting of members having innovative vision, long experience, and dedication to uplift the status of modern, scientific and technical education in Nepal.",
+        "address": "Nepalgunj, Banke, Nepal",
+        "contact": "081-536086",
+        "mail": "coem.clg@gmail.com",
+        "province": "Lumbini",
+        "image": "https://coem.edu.np/wp-content/uploads/2023/08/coem.jpg",
+        "map": "https://maps.app.goo.gl/7Xxj1sDBg4sukoQq9",
+        "website": "https://coem.edu.np/",
+        "courses": [
+            {
+                "courseName": "Bachelor of Engineering in Information Technology (BE IT)",
+                "duration": "4 years",
+                "degree": "BE IT",
+                "affiliated_by": "Pokhara University"
+            }
+        ]
+    },
+    {
+        "schoolName": "Dhambojhi Secondary School, Banke",
+        "shortDescription": "Dhambojhi Secondary School is designed to provide students with a strong foundation in computer science and engineering principles.",
+        "longDescription": "The Ten Plus Two (+2) Computer Engineering program at Dhambojhi Secondary School is designed to provide students with a strong foundation in computer science and engineering principles. This program offers a comprehensive curriculum that covers subjects such as Programming, Data Structures, Computer Architecture, Networking, Database Management, Mathematics, and English. It aims to develop students' programming skills, problem-solving abilities, and technical knowledge in the field of computer engineering.",
+        "address": "Dhambojhi, Waterpark, Nepalgunj, Banke",
+        "contact": "081-525491",
+        "image": "https://www.collegenp.com/uploads/2023/05/Dhambojhi-Secondary-School-Nepalgunj.jpg",
+        "mail": "N/A",
+        "website": "N/A",
+        "province": "Lumbini",
+        "map": "https://maps.app.goo.gl/v8jFJiLHhvieDiaV9",
+        "courses": [
+            {
+                "courseName": "Ten Plus Two in Computer Engineering",
+                "duration": "2 years",
+                "degree": "High School Diploma",
+                "affiliated_by": "CTEVT"
+            }
+        ]
+    },
+    {
+        "collegeName": "Nepalgunj Campus of Management & Technology (NCMT)",
+        "shortDescription": "This college is affiliated with Tribhuvan University and offers programs like BSc CSIT (Bachelor of Science in Computer Science and Information Technology) and BCA (Bachelor of Computer Applications).",
+        "longDescription": "Nepalgunj College, also known as the Nepalgunj Campus of Management & Technology (NCMT), is a private IT college located in Nepalgunj, Banke district of Nepal. This college is affiliated with Tribhuvan University and offers programs like BSc CSIT (Bachelor of Science in Computer Science and Information Technology) and BCA (Bachelor of Computer Applications).   The college stands out as a pioneer in IT education in Western Nepal, recognizing its responsibility in laying a solid foundation in this field. It is committed to providing top-class IT education that is both nationally and internationally recognized and respected. Unlike other cities where the growth in IT education has often come at the expense of quality, Nepalgunj College maintains a focus on aligning its courses with the evolving needs of the IT industry. This is achieved through regular interaction between faculty members and IT sector employers.",
+        "address": "Ganeshman Chowk , Surkhet Road -Banke",
+        "contact": "081-522883",
+        "website": "https://nepalgunjcollege.edu.np/",
+        "province": "Lumbini",
+        "image": "N/A",
+        "mail": "official.ncmt@gmail.com",
+        "googleMap": "https://maps.app.goo.gl/XbYbJUbMfh8FsuEg6",
+        "courses": [
+            {
+                "courseName": "Bachelor of Science in Computer Science and Information Technology (BSc. CSIT)",
+                "duration": "4 years",
+                "degree": "BSc. CSIT",
+                "affiliated_by": "Tribhuvan University (TU)"
+            },
+            {
+                "courseName": "Bachelor of Computer Application",
+                "duration": "4 years",
+                "degree": "BCA",
+                "affiliated_by": "Tribhuvan University (TU)"
+            }
+        ]
+    },
+    {
+        "collegeName": "Nepalgunj Technical College",
+        "shortDescription": "This college has been imparting quality education through an audio-visual method for making the teaching and learning more interesting and effective for the students.",
+        "longDescription": "This college has been imparting quality education through an audio-visual method for making the teaching and learning more interesting and effective for the students. Students are given opportunities for experiencing the real working system through the knowledge gained from practical and theoretical projects. This college has been simplifying students with world-class services required for the better study of the students. Nepalgunj Technical College helps to improve the knowledge of the students and strengthen the base of the course for facing challenging situations during the working place. Besides these, Nepalgunj Technical College also has friendly education environment so that students can study with the high interest that helps for the better outcome. ",
+        "address": "Rambag, Rangashala Road, Banke ",
+        "contact": "081-527940",
+        "website": "https://www.ntc.edu.np/",
+        "mail": "ntc.college08@gmail.com",
+        "province": "Lumbini",
+        "image": "https://www.ntc.edu.np/storage/images/1oyRuRdyR2ruz6uHBlwjvyECNeuzeLETd69ZICSd.jpg ",
+        "googleMap": "https://maps.app.goo.gl/wqR56qHUJFzjk4Up9 ",
+        "courses": [
+            {
+                "courseName": "Diploma in Computer Engineering",
+                "duration": "3 years",
+                "degree": "High School Diploma",
+                "affiliated_by": "CTEVT"
+            }
+        ]
+    },
+    {
+        "collegeName": "Tribhuvan Secondary School",
+        "shortDescription": ":Tribhuvan Secondary School, Kohalpur is a community-based academic institute and it is located in Kohalpur, Banke district of Nepal.",
+        "longDescription": "Tribhuvan Secondary School, Kohalpur is a community-based academic institute and it is located in Kohalpur, Banke district of Nepal. It is affiliated to the National Examinations Board (NEB), Council for Technical Education and Vocational Training (CTEVT) and approved by Ministry of Education. It offers Ten Plus Two (10+2) programs under Education, Science, Management Streams.",
+        "address": "Kohalpur, Banke ",
+        "contact": "+977-81-540030",
+        "website": "N/A",
+        "mail": "N/A",
+        "province": "Lumbini",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipMBG2RuWG4rW47rLOVPN5g4ARqk7abqKUObFAMp=s1360-w1360-h1020",
+        "googleMap": "map:https://maps.app.goo.gl/zxygW5okjxRUQqdk7",
+        "courses": [
+            {
+                "courseName": "Junior Computer Technician",
+                "duration": "2 years",
+                "degree": " Diploma",
+                "affiliated_by": "NEB"
+            }
+        ]
+    },
+    {
+        "collegeName": "Bhairahawa Campus",
+        "shortDescription": "Being a multiple campus, it runs various programs under science, management and humanities stream.",
+        "longDescription": "Bhairahawa Campus is located in Bhairahawa. It is affiliated with Tribhuvan University. It was originally named as Bhairahawa Bahumukhi. It runs as a non-profit educational institution in the city.Being a multiple campus, it runs various programs under science, management and humanities stream. Moreover, it runs +2 programs as well as Masters and Bachelors degree programs.",
+        "address": "Bhairahawa, Rupandehi",
+        "contact": "N/A",
+        "mail": " info@bhairahawacampus.edu.np",
+        "province": "Lumbini",
+        "image": "https://scontent.fpkr1-1.fna.fbcdn.net/v/t39.30808-6/305769259_390623189948138_3791855177710096772_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=3Y4Aq_v7NWQAX95dBQ6&_nc_ht=scontent.fpkr1-1.fna&oh=00_AfBMx5XWzDe0nBncc21bfTqQl1-H0qSCyVz-Ae0tCPHogw&oe=6591C7C9",
+        "map": "https://maps.app.goo.gl/Xaf9iynhtJijm2jdA",
+        "website": "https://bmc.tu.edu.np/",
+        "courses": [
+            {
+                "courseName": "Bachelor of Computer Application (BCA)",
+                "duration": "4 years",
+                "degree": "BCA",
+                "affiliated_by": "Tribhuvan University"
+            },
+            {
+                "courseName": "Bachelors in Information Technology (BIT)",
+                "duration": "3 years",
+                "degree": "BIT",
+                "affiliated_by": "Tribhuvan University"
+            },
+            {
+                "courseName": "Bachelor of Information Management (BIM)",
+                "duration": "4 years",
+                "degree": "BIM",
+                "affiliated_by": "Tribhuvan University"
+            },
+            {
+                "courseName": "BSc Computer Science and Information Technology (BSc CSIT)",
+                "duration": "4 years",
+                "degree": "BSc. CSIT",
+                "affiliated_by": "Tribhuvan University"
+            }
+        ]
+    },
+    {
+        "collegeName": "Butwal Multiple Campus",
+        "shortDescription": "Butwal Multiple Campus is one of the biggest campuses in the Lumbini Zone.",
+        "longDescription": "Butwal Multiple Campus is one of the biggest campuses in the Lumbini Zone, offering various Bachelors and Masters programs with affiliation from Tribhuvan University. It is situated on the hilly terrain of Butwal near Golpark area of Butwal Municipality. The name 'Multiple' reflects its offering of several courses in the disciplines of Arts, Science, Commerce, and Law, among others. The campus follows varying schedules for classes, starting from 6:00 am.",
+        "address": "Butwal, Rupandehi",
+        "contact": "071-542834",
+        "mail": "butwalmcampus@gmail.com",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Butwal_multiple_campus.jpg",
+        "map": "https://maps.app.goo.gl/2GQeRomc9hrurwr29",
+        "province": "Lumbini",
+        "website": "https://bmc.edu.np",
+        "courses": [
+            {
+                "courseName": "Bachelor of Education in Information Communication Technology (BICTE)",
+                "duration": "3 years",
+                "degree": "BICTE",
+                "affiliated_by": "Tribhuvan University"
+            },
+            {
+                "courseName": "BSc Computer Science and Information Technology(BSc.CSIT)",
+                "duration": "4 years",
+                "degree": "Bsc.Csit",
+                "affiliated_by": "Tribhuvan University"
+            }
+        ]
+    },
+    {
+        "collegeName": "Sky International College",
+        "shortDescription": "The college is committed to provide high standard professionally trained graduates needed for the industries in the area.",
+        "longDescription": "Sky International College (SIC) is located at Milanchok, Butwal. Established in 2011, it is a pioneer college with the main objective of providing quality education and training in the fields of Management and Information Technology (IT). The college is committed to providing high-standard professionally trained graduates needed for the industries in the area. It is devoted to generating, spreading, and preserving competency needed to work with others to bring it to bear on the world's great challenges.",
+        "address": "Milanchowk, Butwal, Tillotama, Rupandehi",
+        "contact": "071-438062",
+        "mail": "jeevanpaudyal1@gmail.com",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipOpegirejxDEbCdLge_uQQTrvmJ-xUqJjQhR97R=w1080-h608-p-k-no-v0",
+        "map": "https://maps.app.goo.gl/kfN7iuFMri8nWf1C6",
+        "province": "Lumbini",
+        "website": "N/A",
+        "courses": [
+            {
+                "courseName": "MSc in Information Technology (MSc IT)",
+                "duration": "2 years",
+                "degree": "MSc IT",
+                "affiliated_by": "Tribhuvan University (TU)"
+            }
+        ]
+    },
+    {
+        "collegeName": "Crimson College of Technology",
+        "shortDescription": "Crimson College of Technology (CCT) is located at Butwal-13, Devinagar, Rupandehi.",
+        "longDescription": "Crimson College of Technology (CCT) is located at Butwal-13, Devinagar, Rupandehi. Established in the year 2000 by a group of dedicated Technical Management and Pharmacy Professionals, CCT aims to meet the need for competent individuals in the field of Information Technology (IT), Management, and Pharmacy education in western Nepal.\n\nThe management of CCT believes that the integration of IT, Management, and Pharmacy education will recover the loss of politics and rescue the country from socio-economic despair. CCT is dedicated to providing professional education with a blend of computer software.",
+        "address": "Devinagar, Butwal, Rupandehi",
+        "contact": "071-410380",
+        "mail": "info@cct.edu.np",
+        "province": "Lumbini",
+        "image": "https://www.facebook.com/photo/?fbid=405641251703234&set=a.405641205036572",
+        "map": "https://maps.app.goo.gl/q8SwFTx5jDhsm55NA",
+        "website": "https://cct.edu.np/",
+        "courses": [
+            {
+                "courseName": "Bachelor of Computer System and Information Technology (BCSIT)",
+                "duration": "4 years",
+                "degree": "Bsc.Csit",
+                "affiliated_by": "Tribhuvan University (TU)"
+            },
+            {
+                "courseName": "Bachelor of Computer Application (BCA)",
+                "duration": "4 years",
+                "degree": "BCA",
+                "affiliated_by": "Tribhuvan University (TU)"
+            }
+        ]
+    },
+    {
+        "collegeName": "Lumbini Engineering, Management and Science College",
+        "shortDescription": "Motto of imparting technical knowledge skill and scientific attitude  among the young talent and creating consciousness among the common people towards practical aspects of science and technology.",
+        "longDescription": "Lumbini Engineering College (LEC) was established in 2000 A.D. with a motto of imparting technical knowledge, skill, and a scientific attitude among the young talent and creating consciousness among the common people towards practical aspects of science and technology. LEC is the only engineering college in Rupandehi district in Lumbini Zone. A group of academicians, engineers, and social workers of the region with their creative minds and many years of professional experience, guided by a sense of social as well as academic responsibility, has promoted it to fulfill the long outstanding demand for an engineering college in the Lumbini zone.",
+        "address": "Tilottama-09, Bhalbari, Tilottama, Tillotama, Rupandehi",
+        "contact": "071-561030",
+        "mail": "lumbiniec@gmail.com",
+        "province": "Lumbini",
+        "image": "https://www.facebook.com/photo/?fbid=514933330438901&set=a.514933300438904",
+        "map": "https://maps.app.goo.gl/Vzwwh6PgmVC77rVW7",
+        "website": "https://lumbini.edu.np/",
+        "courses": [
+            {
+                "courseName": "Bachelor of Computer Engineering (BE Computer)",
+                "duration": "4 years",
+                "degree": "BE",
+                "affiliated_by": "Pokhara University"
+            },
+            {
+                "courseName": "Diploma in Computer Engineering",
+                "duration": "3 years",
+                "degree": "Diploma",
+                "affiliated_by": "Pokhara University"
+            }
+        ]
+    },
+    {
+        "collegeName": "Nepathya College",
+        "shortDescription": "Nepathya College and its management team have a specific vision to set an example in the field of teaching-learning.",
+        "longDescription": "Nepathya College is the only college dedicated to IT education in the Butwal/Lumbini region, managed by IT experts and professionals. The college and its management team have a specific vision to set an example in the field of teaching-learning. Nepathya College is offering BCA and B.Sc CSIT programs with affiliation from Tribhuvan University.",
+        "address": "Butwal-10, Sukkhanagar, Butwal, Tillotama, Rupandehi",
+        "contact": "071-562537",
+        "mail": "info@nepathyacollege.edu.np",
+        "province": "Lumbini",
+        "image": "https://nepathyacollege.edu.np/assets/images/nepathya-college.jpg",
+        "map": "https://maps.app.goo.gl/1eePnuzCVVR2N4gq8",
+        "website": "https://nepathyacollege.edu.np/",
+        "courses": [
+            {
+                "courseName": "Bachelor of Computer System and Information Technology (BCSIT)",
+                "duration": "4 years",
+                "degree": "Bsc.Csit",
+                "affiliated_by": "Tribhuvan University"
+            },
+            {
+                "courseName": "B.IT",
+                "duration": "3 years",
+                "degree": "B.IT",
+                "affiliated_by": "Tribhuvan University"
+            },
+            {
+                "courseName": "BCA",
+                "duration": "4 years",
+                "degree": "BCA",
+                "affiliated_by": "Tribhuvan University"
+            }
+        ]
+    },
+    {
+        "schoolName": "Adarsha Secondary School",
+        "shortDescription": "It is affiliated with CTEVT for the Diploma In Information Technology (DIT) program.",
+        "longDescription": "Adarsha Secondary School, Lalmatiya, Dang, is a community-owned academic institute that has been providing quality education to the students of Nepal for over six decades. Established in 1960 AD, this school is affiliated with CTEVT for the Diploma In Information Technology (DIT) program.",
+        "address": "Lalmatiya, Dang",
+        "contact": "+977-82-413028",
+        "mail": "adarshamabi2017@gmail.com",
+        "province": "Lumbini",
+        "map": "https://maps.app.goo.gl/AXvTZfY4WuBQUM616",
+        "website": "N/A",
+        "image": "https://www.collegenp.com/uploads/2018/11/Adarsha-Secondary-School,-Lalmatiya,-Dang.jpg",
+        "courses": [
+            {
+                "courseName": "Diploma in Information Technology (DIT)",
+                "duration": "3 years",
+                "degree": "DIT",
+                "affiliated_by": "CTEVT"
+            }
+        ]
+    },
+    {
+        "collegeName": "Ambikeshwari College (AMC)",
+        "shortDescription": "Located in the heart of Ghorahi city in Dang district, Nepal, Ambikeshwari College (AMC) was established in 2013 AD (2069 BS). This privately owned IT college has grown to become a premier institution in Nepal, with a commitment to providing top-notch computer science education",
+        "longDescription": "With the motto, 'College for Professional Studies', AMC’s mission revolves around enriching the IT knowledge landscape and honing the technical prowess of its students. In a world where quality education is paramount, AMC ensures that the education they offer is purposeful and aligns with the needs of today's fast-paced and competitive global arena. Located in the heart of Ghorahi city in Dang district, Nepal, Ambikeshwari College (AMC) was established in 2013 AD (2069 BS). This privately owned IT college has grown to become a premier institution in Nepal, with a commitment to providing top-notch computer science education.",
+        "address": "Ghorahi, Dang",
+        "contact": "+977-82-563545",
+        "mail": "info@amc.edu.np",
+        "province": "Lumbini",
+        "image": "https://www.facebook.com/photo/?fbid=588799870072902&set=a.588799853406237",
+        "map": "https://maps.app.goo.gl/9gMoqme2y23DS3S78",
+        "website": "http://amc.edu.np",
+        "courses": [
+            {
+                "courseName": "Bachelor of Science in Computer Science and Information Technology (B.Sc. CSIT)",
+                "duration": "4 years",
+                "degree": "B.Sc. CSIT",
+                "affiliated_by": "TU"
+            },
+            {
+                "courseName": "Bachelor of Information Management (BIM)",
+                "duration": "4 years",
+                "degree": "BIM",
+                "affiliated_by": "TU"
+            },
+            {
+                "courseName": "Bachelor of Computer Applications (BCA)",
+                "duration": "4 years",
+                "degree": "BCA",
+                "affiliated_by": "TU"
+            }
+        ]
+    },
+    {
+        "collegeName": "Mahendra Multiple Campus",
+        "shortDescription": "Mahendra Multiple Campus is very much dedicated to provide skilled manpower each year.",
+        "longDescription": "Mahendra Multiple Campus is located in Bharatpur, Ghorahi, Dang. It is affiliated with Tribhuvan University and offers programs in the faculties of Law, Science and Technology, Management, and Humanities. The campus has been imparting quality education with highly experienced faculty members. Mahendra Multiple Campus in Dang offers Bachelor and Master degree programs in Management, Science, Humanities, and Education faculties, including Bachelor of Arts (BA), Bachelor of Science (B.Sc. in General), Bachelor of Business Studies (BBS), Master of Business Studies (MBS), Master of Arts (MA) in Political Science, Master of Arts (MA) in Nepali, and Master of Arts (MA) in English.",
+        "address": "Lalmatiya, Dang",
+        "contact": [
+            "+977-82-560035",
+            "+977-82-560458"
+        ],
+        "mail": "info@mamc.tu.edu.np",
+        "image": "https://www.facebook.com/photo/?fbid=173361611930565&set=a.173361591930567",
+        "map": "https://maps.app.goo.gl/gAXg11it3giqxauZ7",
+        "website": "https://mamc.tu.edu.np",
+        "courses": [
+            {
+                "courseName": "Bachelor of Science in Computer Science and Information Technology (BSc. CSIT)",
+                "duration": "4 years",
+                "degree": "BSc.CSIT",
+                "affiliated_by": "TU"
+            },
+            {
+                "courseName": "BCA",
+                "duration": "4 years",
+                "degree": "BCA",
+                "affiliated_by": "TU"
+            }
+        ]
+    },
+    {
+        "collegeName": "Gyan Deep College",
+        "shortDescription": "Gyan Deep College, established in 2013, is a renowned educational institution in Tulsipur-6, Baruwagaun Tole, Dang district, Nepal.",
+        "longDescription": "Gyan Deep College, established in 2013, is a renowned educational institution in Tulsipur-6, Baruwagaun Tole, Dang district, Nepal. This prestigious college is a part of the Gyan Jyoti Education Foundation and has earned recognition for its commitment to academic excellence and student development. GDC is a distinguished academic institution affiliated with Tribhuvan University and recognized by UGC. It offers a variety of undergraduate programs, including Bachelor of Science (BSc), Bachelor of Business Studies (BBS), Bachelor of Arts (BA), and Bachelor of Computer Applications (BCA), each designed to provide a comprehensive education and practical skills in their respective fields. The college's vision is centered on fostering holistic growth in students, encompassing self-respect, social discipline, entrepreneurship, and management skills, while also emphasizing the importance of critical and creative thinking. Committed to providing quality and affordable education, Gyan Deep College supports its students through various scholarships, especially for the deserving and marginalized. The institution is well-equipped with facilities like sports, a library, multimedia resources, and advanced laboratories, ensuring a conducive environment for learning and personal development.",
+        "address": "Tulsi, Dang",
+        "contact": "+977-82-520955",
+        "mail": "gyandeep.college70@gmail.com",
+        "province": "Lumbini",
+        "image": "https://www.gyandeepcollege.edu.np/files/gallery/banner_1.jpeg",
+        "map": "https://maps.app.goo.gl/gAXg11it3giqxauZ7",
+        "website": "https://www.gyandeepcollege.edu.np/",
+        "courses": [
+            {
+                "courseName": "Bachelor of Science (BSc)",
+                "duration": "",
+                "degree": "BSc",
+                "affiliated_by": "TU"
+            },
+            {
+                "courseName": "Bachelor of Business Studies (BBS)",
+                "duration": "",
+                "degree": "BBS",
+                "affiliated_by": "TU"
+            },
+            {
+                "courseName": "Bachelor of Arts (BA)",
+                "duration": "",
+                "degree": "BA",
+                "affiliated_by": "TU"
+            },
+            {
+                "courseName": "Bachelor of Computer Applications (BCA)",
+                "duration": "",
+                "degree": "BCA",
+                "affiliated_by": "TU"
+            }
+        ]
+    },
+    {
+        "collegeName": "Lumbini City College",
+        "shortDescription": "Lumbini City College (LCC) is situated at Tilottama-4, Rupandehi, established in 2069 BS. LCC was founded with the sole purpose of fostering and foregrounding Nepalese academia to cope with the rapidly changing pattern in computing and global challenges.",
+        "longDescription": "Lumbini City College ensures that students are supported by a team of professionals who are experienced in looking after the unique needs of students. LCC has been successful in introducing courses to address the requirements of students who possess a burning urge to explore the world while utilizing their IT key expertise.",
+        "address": "Tilottama, Rupandehi",
+        "contact": "071-414633",
+        "mail": "admin@lcc.edu.np",
+        "province": "Lumbini",
+        "image": "https://media.edusanjal.com/__sized__/logos/lcc-thumbnail-200x200.png",
+        "map": "https://maps.app.goo.gl/RSo4NQWNSYrMkcth6",
+        "website": "https://www.lcc.edu.np/",
+        "courses": [
+            {
+                "courseName": "BSc Computer Science and Information Technology (BSc CSIT)",
+                "duration": "4 years",
+                "degree": "BSc CSIT",
+                "affiliated_by": "Tribhuvan University"
+            },
+            {
+                "courseName": "Bachelor of Information Management (BIM)",
+                "duration": "4 years",
+                "degree": "BIM",
+                "affiliated_by": "Tribhuvan University"
+            },
+            {
+                "courseName": "Bachelor of Computer Application (BCA)",
+                "duration": "4 years",
+                "degree": "BCA",
+                "affiliated_by": "Tribhuvan University"
+            }
+        ]
+    },
+    {
+        "collegeName": "Crimson College of Technology (CCT)",
+        "shortDescription": "Established in 2000 AD by a group of dedicated academicians from different educational backgrounds like IT, management, professionals from health-sciences, and engineers.",
+        "longDescription": "Crimson College of Technology is located at Devinagar, Butwal, Rupandehi, Nepal. The college offers Bachelor in Pharmacy (B. PHARM), BBA, BCA, and BCIS affiliated to Pokhara University (PU). CCT is famous as an ‘A GRADE COLLEGE IN EMPLOYMENT’ in the region. Adding to it, CCT is committed to embracing an inclusive quality assurance culture and has developed a number of policies and procedures to ensure that our courses and services are of the highest quality in pharmacy education. The college is located in the heart of the city and is linked with the east-west highway. Because of its appropriate geographical location equipped with modern facilities, Butwal has become a focal point for education, trade, and transportation.",
+        "address": "Devinagar, Butwal, Rupandehi, Nepal",
+        "contact": "+977-71-410479",
+        "mail": "info@cct.edu.np",
+        "province": "Lumbini",
+        "image": "https://i0.wp.com/www.bcacollegenepal.com/wp-content/uploads/2021/09/crimsiom.png?resize=533%2C326&ssl=1",
+        "map": "https://maps.app.goo.gl/vTgCWeLAMBH7DnsC9",
+        "website": "http://www.cct.edu.np",
+        "courses": [
+            {
+                "courseName": "Bachelor of Computer Application (BCA)",
+                "duration": "4 years",
+                "degree": "BCA",
+                "affiliated_by": "Pokhara University"
+            },
+            {
+                "courseName": "Bachelor of Computer Information Systems (BCIS)",
+                "duration": "4 years",
+                "degree": "BCIS",
+                "affiliated_by": "Pokhara University"
+            }
+        ]
+    },
+    {
+        "collegeName": "Lumbini Engineering College",
+        "shortDescription": "Established in 2000 A.D., Lumbini Engineering College is the result of the efforts of a team with extensive experience and dedication to modern, scientific, and technical education. The institution aims to decentralize engineering education and reduce the compulsion of going abroad for technical education.",
+        "longDescription": "As part of academic expansion, this umbrella institution also established Lumbini Engineering Management and Science College. It is affiliated with Pokhara University and Council of Technical Education and Vocational Training (CTEVT). In the modern age of technology, engineering education has become highly significant, efficacious, and career-oriented, making it valuable in the global job market. The college has produced seven batches, and its students have secured outstanding results, topping the university in several semesters. Graduates are now performing commendably in various positions both at home and abroad.",
+        "address": "Bhalwari, Karahiya, Rupandehi, Nepal",
+        "contact": "",
+        "mail": "lumbiniec@gmail.com",
+        "province": "Lumbini",
+        "image": "https://media.edusanjal.com/__sized__/logos/lcc-thumbnail-200x200.png",
+        "map": "https://maps.app.goo.gl/fjDcvbBqq8WKCAkL9",
+        "website": "http://www.lumbini.edu.np",
+        "courses": [
+            {
+                "courseName": "Bachelor of Computer Application (BCA)",
+                "duration": "4 years",
+                "degree": "BCA",
+                "affiliated_by": "Pokhara University"
+            },
+            {
+                "courseName": "Bachelor of Computer Engineering",
+                "duration": "4 years",
+                "degree": "Bachelor of Computer Engineering",
+                "affiliated_by": "Pokhara University"
+            },
+            {
+                "courseName": "Bachelor of Electronics and Communication Engineering",
+                "duration": "4 years",
+                "degree": "Bachelor of Electronics and Communication Engineering",
+                "affiliated_by": "Pokhara University"
+            },
+            {
+                "courseName": "M.Sc in Construction Management",
+                "duration": "2 years",
+                "degree": "M.Sc",
+                "affiliated_by": "Pokhara University"
+            },
+            {
+                "courseName": "Diploma in Computer Engineering",
+                "duration": "3 years",
+                "degree": "Diploma in Computer Engineering",
+                "affiliated_by": "CTEVT"
+            },
+            {
+                "courseName": "Diploma in Electrical Engineering",
+                "duration": "",
+                "degree": "Diploma in Electrical Engineering",
+                "affiliated_by": "CTEVT"
+            }
+        ]
+    },
+    {
+        "collegeName": "Arghakhanchi Technical Training School (ATTS)",
+        "shortDescription": "Established in 1995 AD (2052 B.S.), ATTS is a technical school located in Sandhikharka, Arghakhachi district of Nepal. It is dedicated to social change through technical education and vocational training. Affiliated with the Council for Technical Education and Vocational Training (CTEVT), ATTS offers CMA and VJTA programs.",
+        "longDescription": "Founded by a team committed to producing skilled manpower in the fields of human health, engineering, and agriculture, ATTS has played a vital role in empowering youth to learn, develop, and contribute to society. The institution takes pride in its efforts to push students to the pinnacle of success.",
+        "address": "Palpa, Nepal",
+        "contact": "+977-77-470194",
+        "mail": "edu.atts@gmail.com",
+        "province": "Lumbini",
+        "image": "https://www.collegenp.com/uploads/2018/06/Arghakhanchi-Technical-Training-School.jpg",
+        "map": "https://maps.app.goo.gl/HfDKcb78ksY4K6Sy9",
+        "website": "http://atts.edu.np/",
+        "courses": [
+            {
+                "courseName": "CMA Program",
+                "duration": "2 years",
+                "degree": "CMA",
+                "affiliated_by": "CTEVT"
+            }
+        ]
+    },
+    {
+        "collegeName": "Mahakavi Devkota Campus",
+        "shortDescription": "With special attention and commitment to impart quality education, it has been serving the local students at affordable cost.",
+        "longDescription": "Mahakavi Devkota Campus (MDC) is a non-profit  making community college located in Sunwal of  Nawalparasi  district of Nepal. Since its establishment in 2060 B.S., it has been a leading college in this area. Since there is not even a single constituent college of T.U. in this Nawalparasi district, it has been providing quality higher education to the local students at affordable cost. A large section of its student population constitutes economically backward and marginalized communities such as Dalit, Madhesis, Tharu, Muslim etc.",
+        "address": "Sunwal, Parasi",
+        "contact": "078-570049",
+        "mail": "info@mdc.edu.np",
+        "province": "Lumbini",
+        "image": "https://www.mdc.edu.np/wp-content/uploads/2023/04/Campus-picc-1.jpg",
+        "map": "https://maps.app.goo.gl/jy99St9rjPR9oz1F8",
+        "website": "https://www.mdc.edu.np/",
+        "courses": [
+            {
+                "courseName": "Bachelor of Education in Information Communication Technology (BICTE)",
+                "duration": "4 years",
+                "degree": "BICTE",
+                "affiliated_by": "Tribhuvan University (TU)"
+            }
+        ]
+    },
+    {
+        "collegeName": "Lumbini ICT Campus",
+        "shortDescription": "Lumbini ICT Campus stands out for its affordable yet quality education, driving forward the development of modern higher education in science and technology. ",
+        "longDescription": "Lumbini ICT Campus, established in 2013 AD (2069 BS), is a distinguished private institution in Gaidakot, Nawalparasi, Nepal. Renowned for its unwavering commitment to superior education, this college is a beacon for academic excellence and a hub of knowledge. Affiliated with Tribhuvan University, it offers a comprehensive Bachelor's degree in BSC CSIT, BCA, BIM, BHM, and MBS molding students for success in both academic and social realms.",
+        "address": "Gaidakot, Nawalparasi",
+        "contact": "+977-78-502188/ +977-78-503206",
+        "mail": "infoictcampus@gmail.com",
+        "province": "Lumbini",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipP213MJ2yEplabLUXci5UEO1yk4Q_-TatMQ0z7p=w408-h544-k-no",
+        "map": "https://maps.app.goo.gl/jtNwrB94WL2jx13NA",
+        "website": "http://lumbiniictcollege.edu.np",
+        "courses": [
+            {
+                "courseName": "Bachelor of Science in Computer Science and Information Technology (BSc CSIT)",
+                "duration": "4 years",
+                "degree": "BSc CSIT",
+                "affiliated_by": "Tribhuvan University (TU)"
+            },
+            {
+                "courseName": "Bachelor of Information Management (BIM)",
+                "duration": "4 years",
+                "degree": "BIM",
+                "affiliated_by": "Tribhuvan University (TU)"
+            }
+        ]
+    }
+]

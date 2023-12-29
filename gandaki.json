@@ -1,0 +1,553 @@
+[
+  {
+    "collegeName": "Dhaulagiri Deaf Residential Secondary School",
+    "shortDescription": "Inclusive deaf school in Baglung, Nepal, offering Diploma in computer engineering.",
+    "longDescription": " Dhaulagiri Deaf Residential Secondary School is an inclusive community-managed formal deaf school situated in Baglung Municipality, Baglung Bazar. Approved by the District Education Office (DEO) in Baglung and affiliated with the Council for Technical Education and Vocational Training (CTEVT), the school offers a 3-year Diploma in Computer Engineering under the TECS program starting in 2017. Initially accommodating 24 deaf students in 2007 A.D, the school has grown to include a total of 230 students, comprising 207 deaf and 23 hearing students. The student body is entirely residential, with 40 students from different districts and 1 student from India receiving a free normal education. ",
+    "address": "Baglung Bazar, Baglung",
+    "contact": "+977-68-522651",
+    "mail": "dhaulagirideafschool@gmail.com",
+    "province": "Gandaki",
+    "image": "https://www.collegenp.com/uploads/2019/02/Dhaulagiri-Deaf-Residential-Secondary-school-Compound.jpg",
+    "map": "https://maps.app.goo.gl/CqDdvqrsvCQBVd3r6",
+    "website": "http://dhaulagirideafschool.edu.np",
+    "courses": [
+      {
+        "courseName": "Diploma in Computer Engineering ",
+        "duration": "3 years",
+        "degree": "Diploma",
+        "affilitated_by": "CTEVT"
+      }
+    ]
+  },
+  {
+    "collegeName": "Gorkha Campus",
+    "shortDescription": "Gorkha Campus provides a 4-year BEd ICT program integrating education and computer science with modern technology.",
+    "longDescription": "Gorkha Campus is located in Gorkha, Nepal. It was established in 1978 A.D (2035 B.S) and is affiliated to Tribhuvan University (TU). IT offers the Bachelor of Education in Information Communication Technology (BEd ICT). This undergraduate program, part of the Faculty of Education, spans 4 years and 8 semesters, comprising a total of 138 credit hours. The curriculum is designed to merge education and computer science, incorporating subjects such as IT, programming, psychology, and AI, with a focus on integrating modern technology into education for a comprehensive skill set. Students who have passed grade 12 or equivalent in the second division or secured C+ in aggregate (>2.01 GPA) are eligible to apply in this course.",
+    "address": "Gorkha, Gorkha",
+    "contact": "064-420233",
+    "mail": "info@gc.tu.edu.np",
+    "province": "Gandaki",
+    "image": "https://lh5.googleusercontent.com/p/AF1QipNYe4Ex_G-4w34Srfr32BPGoLg2Hsj6-6CcAmzt=w520-h240-k-no",
+    "map": "https://maps.app.goo.gl/sfVhGJFTXpEQvE4Y7",
+    "website": "www.gorkhacampus.edu.np",
+    "courses": [
+      {
+        "courseName": "Bachelor of Education in Information Communication Technology (BICTE)",
+        "duration": "4 years",
+        "degree": "BEd ICT",
+        "affilitated_by": "Tribhuvan University"
+      }
+    ]
+  },
+
+  {
+    "collegeName": "Myagdi Multiple Campus",
+    "shortDescription": "It offers a 4-year BEd ICT program merging education and computer science.",
+    "longDescription": "The Myagdi Multiple Campus, Beni, is the community campus of Tribhuvan University, offers the Bachelor of Education in Information Communication Technology (BEd ICT). This undergraduate program, part of the Faculty of Education, spans 4 years and 8 semesters, comprising a total of 138 credit hours. The curriculum is designed to merge education and computer science, incorporating subjects such as IT, programming, psychology, and AI.",
+    "address": "Phulbari, Beni, Beni, Myagdi",
+    "contact": "069-520109",
+    "mail": "myagdicampus@gmail.com",
+    "province": "Gandaki",
+    "image": "https://lh5.googleusercontent.com/p/AF1QipNPDaJDfFjFOOGMXU4VvFZc6rsmBfWq41tc3DTU=w408-h306-k-no",
+    "map": "https://maps.app.goo.gl/tCj1vAxCFaazRyNC8",
+    "website": "https://myagdicampus.edu.np/",
+    "courses": [
+      {
+        "courseName": "Bachelor of Education in Information Communication Technology",
+        "duration": "4 years",
+        "degree": "BEd ICT",
+        "affilitated_by": "Tribhuvan University"
+      }
+    ]
+  },
+  {
+    "collegeName": "Madhyabindu Multiple Campus",
+    "shortDescription": "Madhyabindu Multiple Campus excels with BEd ICT, a 4-year program merging education and computer science.",
+    "longDescription": "Madhyabindu Multiple Campus (MMC) established in 2063 BS (2006 AD), became one of the leading community campuses, affiliated to Tribhuvan University (TU) and National Examinations Board(NEB),offers the Bachelor of Education in Information Communication Technology (BEd ICT). This undergraduate program, part of the Faculty of Education, spans 4 years and 8 semesters, comprising a total of 138 credit hours. The curriculum is designed to merge education and computer science, incorporating subjects such as IT, programming, psychology, and AI. Students who have passed grade 12 or equivalent in the second division or secured C+ in aggregate (>2.01 GPA) are eligible to apply in this course. The campus has academically sound, richly experienced, and proficient in their profession, genuinely dedicated to the enhancement of their students and widely renowned teachers.",
+    "address": "Kawasoti-3, Nawalpur, Kawasoti, Nawalpur",
+    "contact": "078-540473/540479/540351, 9857040627",
+    "mail": "info@madhyabindu.edu.np",
+    "province": "Gandaki",
+    "image": "https://www.madhyabindu.edu.np/wp-content/uploads/2014/03/Madhyabindu-Campus-390x390.jpg",
+    "map": "https://maps.app.goo.gl/sUj7XehoCcYzzN3Z8",
+    "website": "https://www.madhyabindu.edu.np/",
+    "courses": [
+      {
+        "courseName": "Bachelor of Education in Information Communication Technology (BICTE)",
+        "duration": "4 years",
+        "degree": "BEd ICT",
+        "affilitated_by": "Tribhuvan University"
+      }
+    ]
+  },
+  {
+    "collegeName": "Lumbini ICT Campus",
+    "shortDescription": "Lumbini ICT Campus excels in quality education, offering IT programs, global courses, and expert mentorship.",
+    "longDescription": "Lumbini ICT Campus stands as a renowned institution dedicated to quality education, fostering academic and social growth. Offering bachelor's programs in Information Technology like B.Sc CSIT, BIM and BCA. It goes beyond with global market-oriented extra-curricular courses. The campus, a temple of knowledge, regularly brings in expertise from both local and international domains to mentor students.",
+    "address": "Gaindakot-4, Kaligandaki Chowk, Nawalpur",
+    "contact": "078 502188, 078 503206",
+    "mail": "mailto@lict.edu.np ",
+    "province": "Gandaki",
+    "image": "https://lict.edu.np/wp-content/uploads/2021/01/Slider02.png",
+    "map": "https://maps.app.goo.gl/so8azi9xAFGfrtWi9",
+    "website": "https://lict.edu.np/",
+    "courses": [
+      {
+        "courseName": "BSc Computer Science and Information Technology (BSc CSIT)",
+        "duration": "4 years",
+        "degree": "BSc CSIT",
+        "affilitated_by": "Tribhuvan University"
+      },
+      {
+        "courseName": "Bachelor of Computer Application (BCA)",
+        "duration": "4 years",
+        "degree": "BCA",
+        "affilitated_by": "Tribhuvan University"
+      },
+      {
+        "courseName": "Bachelor of Information Management (BIM)",
+        "duration": "4 years",
+        "degree": "BIM",
+        "affilitated_by": "Tribhuvan University"
+      }
+    ]
+  },
+  {
+    "collegeName": "Oxford College of Engineering and Management",
+    "shortDescription": "Leading in science and management education, offering BCA and Computer Engineering programs. Affiliated to Pokhara University.",
+    "longDescription": "Oxford College of Engineering and Management is one of the pioneer management and science colleges located at Gaindakot, Nawalparasi Nepal. It was established in 2057 BS by a group of academic experts. It is affiliated to Pokhara University and accredited from Nepal Engineering Council. It offers four years full time bachelor degree programs in Bachelor of Computer Application (BCA), and Bachelor of Computer Engineering. Requirement for BCA is minimum D grade in each subject of grade 11 and 12 with a CGPA 2.0 or more and for B.E Computer, 10+2 or A-Level or equivalent with minimum of 50% marks in aggregate and 50% in Physics, Chemistry and Mathematics or Physics, Mathematics and Computer Science",
+    "address": "Gaindakot-2, Gaindakot, Nawalpur",
+    "contact": "+977-78-501078,501281",
+    "mail": "info@oxfordcollege.edu.np",
+    "province": "Gandaki",
+    "image": "https://lh5.googleusercontent.com/p/AF1QipPI96PmOaxmLvE8VqB5tzRazdvQyXk1WtJPRMoc=w408-h260-k-no",
+    "map": "https://maps.app.goo.gl/HLTQ7CB7MZc59i7T6",
+    "website": "http://oxfordcollege.edu.np",
+    "courses": [
+      {
+        "courseName": "Bachelor of Computer Application (BCA)",
+        "duration": "4 years",
+        "degree": "BCA",
+        "affilitated_by": "Pokhara University"
+      },
+      {
+        "courseName": "Bachelor of Computer Engineering.",
+        "duration": "4 years",
+        "degree": "BE Computer",
+        "affilitated_by": "Pokhara University"
+      }
+    ]
+  },
+  {
+    "collegeName": "Aadikavi Bhanubhakta Multiple Campus",
+    "shortDescription": "Aadikavi Bhanubhakta Campus, TU-affiliated, offers BEd ICT, merging education and computer science for comprehensive learning.",
+    "longDescription": "Aadikavi Bhanubhakta Campus is a community campus of Tribhuvan University.The campus is located in the heart of Tanahun District, at Bigyan Chour, Bhadgaun, Damauli, Vyas- 1. It is the largest campus in Tanahun and it's quality is recognized with the Quality Assurance and Accreditation (QAA) certificate by the University Grant Commission, Kathmandu, Nepal. It is offering Bachelor of Education in Information Communication Technology (BEd ICT). (BEd ICT) is an undergraduate program offered by Tribhuvan University, under the Faculty of Education. It is a 4-year semester-based program spreading over 8 semesters covering a total of 138 credit hours.This course aims merging education and computer science, covering subjects like IT, programming, psychology, and AI.",
+    "address": "Damauli, Byas, Tanahun",
+    "contact": " 065-590096,065-590196",
+    "mail": "info@aadkivaicampus.edu.np",
+    "province": "Gandaki",
+    "image": "https://lh3.googleusercontent.com/p/AF1QipOtOIiHNKFR5nzfefA_cDupkCqaksbrLdiq-y-n=s680-w680-h510",
+    "map": "https://maps.app.goo.gl/C6RHpU9UFjSZM7Fb9",
+    "website": "https://aadikavicampus.edu.np/",
+    "courses": [
+      {
+        "courseName": "Bachelor of Education in Information Communication Technology (BICTE)",
+        "duration": "4 years",
+        "degree": "BEd ICT",
+        "affilitated_by": "Tribhuvan University"
+      }
+    ]
+  },
+  {
+    "collegeName": "Soch College of IT",
+    "shortDescription": "Excels in B.Sc.CSIT education, preparing students for successful IT careers.",
+    "longDescription": "Soch College of IT established in 2070 B.S is located in Ranipauwa which has a programme of B.Sc. CSIT , a four-year, eight-semester programme offered by the Institute of Science and Technology at Tribhuvan University in Nepal.Since its founding, SOCH has offered excellent information technology instruction. Currently, students choose Soch College as one of the best IT colleges for their better futures.",
+    "address": "Pokhara-11, Ranipauwa, Kaski",
+    "contact": "+977-61574096/543120",
+    "mail": " info@sochcollege.edu.np",
+    "province": "Gandaki",
+    "image": "https://i0.wp.com/saralnotes.com/wp-content/uploads/2019/11/soch1.jpg?fit=711%2C533&ssl=1",
+    "map": "https://maps.app.goo.gl/LYKv5pmmJocpPQSn6",
+    "website": "https://sochcollege.edu.np/",
+    "courses": [
+      {
+        "courseName": "Bachelor of Science in Computer Science and Information Technology",
+        "duration": "4 years",
+        "degree": "B.Sc.CSIT",
+        "affilitated_by": "Tribhuvan University (TU)"
+      }
+    ]
+  },
+  {
+    "collegeName": "Infomax College of Information Technology and Management",
+    "shortDescription": "First IT College in Pokhara.",
+    "longDescription": "Informax College of IT & Management is one of the first institutions of higher learning in the Pokhara Valley for IT and management.They have been offering high-quality, reasonably priced, and globally recognised degrees in Pokhara since 2005. This college, which is situated in Ranipauwa, offers three-year international degrees in BSc. IT , accredited by Asian Pacific University.",
+    "address": "Ranipauwa, Fulbari Marga (behind Nepal Telecom Office) , Pokhara-11, Kaski",
+    "contact": "061-585735, 9846294602",
+    "mail": "info@infomaxcollege.edu.np",
+    "province": "Gandaki",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYJO42j5pzm6jj_4cCHiatkKXFmlo8miymdfuBZV_zggBb9PAOpIObJy2mqZDtwxTw5i8&usqp=CAU",
+    "map": "https://maps.app.goo.gl/kezrtZkS6Rcv3VhK7",
+    "website": "https://infomaxcollege.edu.np/",
+    "courses": [
+      {
+        "courseName": "Bachelor in Information Technology",
+        "duration": "3 years",
+        "degree": "B.SC.IT",
+        "affilitated_by": "Asian Pacific University,Malaysia"
+      }
+    ]
+  },
+  {
+    "collegeName": "Informatics College Pokhara",
+    "shortDescription": "Affordable UK degrees in IT, no background required.",
+    "longDescription": "Informax College of IT & Management is one of the first institutions of higher learning in the Pokhara Valley for IT and management.They have been offering high-quality, reasonably priced, and globally recognised degrees in Pokhara since 2005. This college, which is situated in Ranipauwa, offers three-year international degrees in BSc. IT , accredited by Asian Pacific University.",
+    "address": "Matepani-12, Pokhara, Kaski",
+    "contact": "+977-061-588115, +977-9801007070",
+    "mail": "info@icp.edu.np",
+    "province": "Gandaki",
+    "image": "https://www.collegeinfonepal.com/wp-content/uploads/2023/06/Informatics-College-Pokhara-Photo-1.jpg",
+    "map": "https://maps.app.goo.gl/W4zvEn3VndfUA2wV8",
+    "website": "https://www.icp.edu.np",
+    "courses": [
+      {
+        "courseName": "Bachelor in Information Technology",
+        "duration": "3 years",
+        "degree": "B.IT",
+        "affilitated_by": "London Metropolitan University,UK"
+      }
+    ]
+  },
+  {
+    "collegeName": "Mount Annapurna Campus",
+    "shortDescription": " Mount Annapurna Campus offers B.Sc.CSIT with an accredited curriculum in Pokhara-5, Parshyang, emphasizing science-related coursework.",
+    "longDescription": "Mount Annapurna Campus was founded in Arghaun in 1992 A.D. and is currently located in Pokhara-5, Parshyang.The curriculum for the Bachelor of Science in Computer Science and Information Technology (B.Sc.CSIT) is carefully modeled after the courses offered in accredited international universities. However, admission to the programme is contingent upon the students having completed science-related coursework or its equivalent from any university recognised by Tribhuvan University (TU). The oldest college in the valley, this one is highly recommended for students with a background in science because of its excellent performance.",
+    "address": "Pokhara-5, Parsyang, Kaski",
+    "contact": "061-572650",
+    "mail": "info@macpokhara.edu.np",
+    "province": "Gandaki",
+    "image": "https://www.macpokhara.edu.np/images/Slider/c874ccf1-b12f-4655-b8f0-ac03bf824c5320231117102831.JPG",
+    "map": "https://maps.app.goo.gl/DGatkGfKXdfPFmgm6",
+    "website": "https://www.macpokhara.edu.np/",
+    "courses": [
+      {
+        "courseName": "Bachelor of Science in Computer Science and Information Technology",
+        "duration": "4 years",
+        "degree": "B.Sc.CSIT",
+        "affilitated_by": "Tribhuvan University (TU)"
+      }
+    ]
+  },
+  {
+    "collegeName": "Prithvi Narayan Campus",
+    "shortDescription": "A leading educational institution in Pokhara, Nepal.",
+    "longDescription": "Prithvi Narayan Campus founded in 1 Sep, 1960 A.D, is the first campus started with 13 students and 2 teachers for post-secondary education and run by the local community. Since, the campus has expanded its subject area to science, arts, education, law, and business. The institution receives government funding through TU and is recognised as one of the major educational institutions in the nation. It is among the most reputable and well established campuses in Pokhara, Nepal. A significant hub for undergraduate, graduate, and postgraduate education in Gandaki Province , it is regarded as one of TU's largest affiliate campuses. Since 2073 B.S., the BSC IT course has been offered. Due to its excellent course quality, affordable cost, and reliable certificate for the future.",
+    "address": "Pokhara-1, Bagar-Bhimkalipatan, Kaski",
+    "contact": "+977-61-576837",
+    "mail": "info@pncampus.edu.np",
+    "province": "Gandaki",
+    "image": "https://www.pncampus.edu.np/data1/images/home3.jpg",
+    "map": "https://maps.app.goo.gl/Z4qZ8K32447VcM8R8",
+    "website": "https://www.pncampus.edu.np/",
+    "courses": [
+      {
+        "courseName": "Bachelor of Science in Computer Science and Information Technology",
+        "duration": "4 years",
+        "degree": "B.Sc.CSIT",
+        "affilitated_by": "Tribhuvan University (TU)"
+      },
+      {
+        "courseName": "Bachelor of Science in Information Technology",
+        "duration": "4 years",
+        "degree": "B.Sc.IT",
+        "affilitated_by": "Tribhuvan University (TU)"
+      }
+    ]
+  },
+  {
+    "collegeName": "ISMT(International School of Management and Technology)",
+    "shortDescription": "ISMT College, affiliated with Sunderland University, offers BSC IT and BSc Cyber Security.",
+    "longDescription": "ISMT college is one of the branches from the ISMT College of Kathmandu which is affiliated to Sunderland University, UK. This college provides the 3 year bachelor degree course of BSC IT and BSc (Hons) Cyber Security and Digital Forensics . One of the international degree colleges in the valley, this institution comes in the list of the students as this college offers student transfer in the last year abroad.",
+    "address": "Pokhara-15, Annapurna Marg, Kaski",
+    "contact": "+977-61-433826 / 435436",
+    "mail": "info@ismt.edu.np",
+    "province": "Gandaki",
+    "image": "https://ismt.edu.np/upload/BranchPicture/Image_167514591970Image_1674625080731ktm_college.webp",
+    "map": "https://maps.app.goo.gl/7Q3qFaG7ve2ahAAa6",
+    "website": "https://ismt.edu.np/",
+    "courses": [
+      {
+        "courseName": "BSc (Hons) Computer Systems Engineering (BSc. IT)",
+        "duration": "3 years",
+        "degree": "BSc (Hons)",
+        "affilitated_by": "Sunderland University, UK."
+      },
+      {
+        "courseName": "BSc (Hons) Cyber Security and Digital Forensics ",
+        "duration": "3 years",
+        "degree": "BSc (Hons)",
+        "affilitated_by": "Sunderland University, UK."
+      },
+      {
+        "courseName": "BSc (Hons) Computer Science",
+        "duration": "3 years",
+        "degree": "BSc (Hons)",
+        "affilitated_by": "Sunderland University, UK."
+      },
+      {
+        "courseName": "MSc Computing [MSc IT]",
+        "duration": "2 years",
+        "degree": "MSc (Hons)",
+        "affilitated_by": "Sunderland University, UK."
+      }
+    ]
+  },
+  {
+    "collegeName": "La Grande College",
+    "shortDescription": "La Grande offers BCA, integrating IT with business, fostering managerial skills in Pokhara, Nepal.",
+    "longDescription": "La Grande offers the BCA ( Bachelors in Computer Application) course of year degree affiliated with Pokhara University. The programme integrates information technology (IT) with business and management, effectively developing managerial skills in the context of modern business and organizational aspects.BCA graduates will be eligible for admission to MCA, MBA, MSCS, MIT, and other master degree programmes at accredited universities worldwide. Located in Simalchaur Pokhara, students have a golden opportunity to develop all of the fundamental skills related to information technology, paving the way for higher pay packages.",
+    "address": "Simalchaur-8, Pokhara, Kaski",
+    "contact": "+977 61 573163/582844",
+    "mail": "info@lagrandee.edu.np",
+    "province": "Gandaki",
+    "image": "https://lagrandee.edu.np/wp-content/uploads/2023/07/La-Grandee_Building-scaled.jpg",
+    "map": "https://maps.app.goo.gl/yCsJMZVjUz7E6JJk6",
+    "website": "https://lagrandee.edu.np/",
+    "courses": [
+      {
+        "courseName": "Bachelor of Computer Application (BCA)",
+        "duration": "4 years",
+        "degree": "BCA",
+        "affilitated_by": "Pokhara University"
+      }
+    ]
+  },
+  {
+    "collegeName": "Kanya Campus",
+    "shortDescription": "Exclusive female education hub, offering BIM degree integrating IT and management.",
+    "longDescription": "Kanya Campus, the valley's only female campus offers a 4 year-long Bachelor's Degree in BIM (Bachelors of Information and Management) through Tribhuvan University.It has consistently provided an opportunity for only girls to pursue higher education in a supportive learning environment since its inception. BIM is composed of 40% management and 60% information technology subjects. With this course, female students can earn a degree in both information technology and management and go on to work in both fields. With this one-of-a-kind subject in the valley, female students are drawn to this college because it has the best post-degree outcomes.",
+    "address": "Nadipur-3, Pokhara, Kaski",
+    "contact": "+977 061 572256, 583456 ",
+    "mail": "info@kanyacampus.edu.np",
+    "province": "Gandaki",
+    "image": "https://www.kanyacampus.edu.np/data1/images/slide_image_1.jpg",
+    "map": "https://maps.app.goo.gl/3JRDcLzFuRxUBk127",
+    "website": "http://www.kanyacampus.edu.np/",
+    "courses": [
+      {
+        "courseName": "Bachelors of Information and Management",
+        "duration": "4 years",
+        "degree": "BIM",
+        "affilitated_by": "Tribhuvan University (TU)"
+      }
+    ]
+  },
+  {
+    "collegeName": "Pokhara College of Management(PCM)",
+    "shortDescription": "Offers a BCIT degree integrating IT and business.",
+    "longDescription": "Pokhara College of Management was founded in 2002, offers a four-year (eight semester) BCIT (Bachelor of Computer Science and Information Technology) degree through Pokhara University. Students can pursue their degree in this college, which is located in the heart of Pokhara valley, to merge the fields of information technology and business management in order to meet the evolving demands of modern businesses.",
+    "address": "Nadipur(Gyan Marga)-3,Pokhara, Kaski",
+    "contact": "061 544761, 061 570124",
+    "mail": "info@pcm.edu.np",
+    "province": "Gandaki",
+    "image": "https://www.campuskit.org/admin/uploads/college-gallery/thumbs/Capture7.JPG",
+    "map": "https://maps.app.goo.gl/GLLxK7mwfYmC83C3A",
+    "website": "https://www.pcm.edu.np/",
+    "courses": [
+      {
+        "courseName": "Bachelor of Computer Science and Information Technology",
+        "duration": "4 years",
+        "degree": "BCIT",
+        "affilitated_by": "Pokhara University"
+      }
+    ]
+  },
+  {
+    "collegeName": "Gandaki College of Engineering and Sciences(GCES)",
+    "shortDescription": "Provides non-profit B.E. & M.Sc. degrees in software, computer & information systems engineering.",
+    "longDescription": "Gandaki College of Engineering and Sciences(GCES) was established in 1998 and officially opened in 1999. The college is operated by the non-profit 'Gandaki Public Education Trust' and is affiliated with Pokhara University. It is located on the grounds of the Gandaki Boarding School (GBS) in Lamachaur, Pokhara.The college offers bachelor's degrees in B.E. Software(Software Engineering ) and B.E. Computer (Computer Engineering), as well as a M.Sc. ISE (master's degree in Information System Engineering). The college is a non-profit organization that is managed by the 'Gandaki Public Education Trust' and is owned by Nepal's Ministry of Education.",
+    "address": "Lamachour-16, Pokhara, Kaski",
+    "contact": "+977-61-443866",
+    "mail": "gces@gces.edu.np",
+    "province": "Gandaki",
+    "image": "https://wms.edigitalnepal.com/wms/files/ws-profile/1689817921320_c0e61d08-5fed-4ea1-ab9d-09071d086dea.jpg",
+    "map": "https://maps.app.goo.gl/owj4ZvyfNG5QADeU8",
+    "website": "https://gces.edu.np/",
+    "courses": [
+      {
+        "courseName": " B.E. Software(Software Engineering ) ",
+        "duration": "4 years",
+        "degree": "B.E. Software",
+        "affilitated_by": "Pokhara University"
+      },
+      {
+        "courseName": "B.E. Computer (Computer Engineering)",
+        "duration": "4 years",
+        "degree": "B.E. Computer",
+        "affilitated_by": "Pokhara University"
+      },
+      {
+        "courseName": " M.Sc. ISE (master's degree in Information System Engineering).",
+        "duration": "4 years",
+        "degree": " M.Sc. ISE",
+        "affilitated_by": "Pokhara University"
+      }
+    ]
+  },
+  {
+    "collegeName": "Pokhara University(Central)",
+    "shortDescription": "Offers diverse programs including Computer Engineering with practical emphasis.",
+    "longDescription": "Pokhara University, The first university of the valley located outside the Pokhara city, established in 1997 this university provides education on management, health and science, science and technology, humanities and social science. This university provides a Computer Engineering Program and Software Engineering which is a four-year programme with eight semesters. It is taught in Bijapur Area Block. A student must complete 126 credit hours of course work successfully. Practical and project work is required for graduation.",
+    "address": "Lekhnath-30, Kaski",
+    "contact": "+977-61-504075",
+    "mail": "info@pu.edu.np",
+    "province": "Gandaki",
+    "image": "https://studypalacehub.com/wp-content/uploads/2022/11/pu21-1-1024x683.png",
+    "map": "https://maps.app.goo.gl/gQBLj6vigYLF4R9H7",
+    "website": "https://pu.edu.np/administrative-staff/central-office/",
+    "courses": [
+      {
+        "courseName": " B.E. Software(Software Engineering ) ",
+        "duration": "4 years",
+        "degree": "B.E. Software",
+        "affilitated_by": "Pokhara University"
+      },
+      {
+        "courseName": "B.E. Computer (Computer Engineering)",
+        "duration": "4 years",
+        "degree": "B.E. Computer",
+        "affilitated_by": "Pokhara University"
+      },
+      {
+        "courseName": "Bachelor of Engineering in Information Technology",
+        "duration": "4 years",
+        "degree": "B.E. IT",
+        "affilitated_by": "Pokhara University"
+      },
+      {
+        "courseName": "Bachelor of Engineering in Computer Application",
+        "duration": "4 years",
+        "degree": "BCA",
+        "affilitated_by": "Pokhara University"
+      }
+    ]
+  },
+  {
+    "collegeName": "Gandaki University(GU)",
+    "shortDescription": "Valley's new university offers BIT course, designed by Gandaki University for top-notch IT education.",
+    "longDescription": "A new university in the valley, this institution offers the BIT (Bachelors in Information and Technology) course, which was developed by the Gandaki University (GU) in order to provide an excellent IT education platform for students as well as to provide ample skilled graduates for the professional business, industries, and research.",
+    "address": "Mustang Chowk, Pokhara, Kaski",
+    "contact": "061-460249",
+    "mail": "info@gandakiuniversity.edu.np",
+    "province": "Gandaki",
+    "image": "https://media.edusanjal.com/gallery/Gandaki_University_3.jpg",
+    "map": "https://maps.app.goo.gl/Kv9prHK16j7Dkmsz8",
+    "website": "https://www.gandakiuniversity.edu.np/",
+    "courses": [
+      {
+        "courseName": "Bachelor of Information Technology (BIT) ",
+        "duration": "4 years",
+        "degree": "BIT",
+        "affilitated_by": "Gandaki University(GU)"
+      }
+    ]
+  },
+  {
+    "collegeName": "Western Regional Campus(WRC)",
+    "shortDescription": "Excels in engineering education, offering a four-year course in Electronics and Computer Engineering.",
+    "longDescription": "The hub of engineering students, Paschimanchal Campus is a division of IOE-TU, whose graduates have excelled in graduate studies at a variety of institutions. Providing the best education in the field of engineering this campus has designed the course of Electronics and Computer Engineering of four year course. This degree was launched in Paschimanchal Campus in 2069 BS with the goal of generating trained computer engineering personnel.This course has 48 seats available (12 regular and 36 full fee). Female students are guaranteed at least 10% of all available seats. The selection is based on merit.",
+    "address": "Lamachour-16, Pokhara, Kaski",
+    "contact": "061-440457,440463,440093",
+    "mail": "doece@ioepas.edu.np",
+    "province": "Gandaki",
+    "image": "https://1.bp.blogspot.com/-RyG2D4JKs6U/XzQAiLpTpyI/AAAAAAAAAcc/Voo8myizHekg0PMETrOdL50xisHmE2ZWQCLcBGAsYHQ/s0/received_1586630191506338.jpeg",
+    "map": "https://maps.app.goo.gl/Rtnm9xe9jowhWPBX7",
+    "website": "https://www.ioepas.edu.np",
+    "courses": [
+      {
+        "courseName": "Bachelor of Electronics, Communication and Information Engineering (BE)",
+        "duration": "4 years",
+        "degree": "B.E",
+        "affilitated_by": "Tribhuvan University (TU)"
+      },
+      {
+        "courseName": "Bachelor of Computer Engineering (BE)",
+        "duration": "4 years",
+        "degree": "B.E. Computer",
+        "affilitated_by": "Tribhuvan University (TU)"
+      }
+    ]
+  },
+  {
+    "collegeName": "Pokhara Engineering College(PEC)",
+    "shortDescription": "A city-center college offering engineering education with approved programs in Computer Engineering and Information Technology.",
+    "longDescription": "Established in 1999 AD this college is located in the center of the city, which has been providing the programme of engineering education.PEC has approved a four-year Bachelor of Science degree in Computer Engineering and just started B.E.IT(Bachelors of Engineering and Information Technology) in 2023 AD. To get admitted to this college, students must have received a least of 'C' grade in all subjects in 10+2 (Secondary Level) OR students must have received a minimum of 'C' grade in all subjects in 10+2 (Science), or I.E. or equivalent 2nd division or above from a university or boards recognised by Pokhara University.",
+    "address": "Phirke-08, Pokhara, Kaski",
+    "contact": "+977 061-581209/575926",
+    "mail": "info@pec.edu.np",
+    "province": "Gandaki",
+    "image": "https://www.collegenp.com/uploads/2023/07/Pokhara-Engineering-College-Notice.jpg",
+    "map": "https://maps.app.goo.gl/GLLxK7mwfYmC83C3A",
+    "website": "https://pec.edu.np/contentdetails/10",
+    "courses": [
+      {
+        "courseName": "Diploma in Computer Engineering",
+        "duration": "3 years",
+        "degree": "Diploma",
+        "affilitated_by": "Pokhara University"
+      },
+      {
+        "courseName": "Bachelor in Computer Engineering",
+        "duration": "4 years",
+        "degree": "B.E. Computer",
+        "affilitated_by": "Pokhara University"
+      },
+      {
+        "courseName": "Bachelor of Engineering in Information Technology (BEIT)",
+        "duration": "4 years",
+        "degree": "B.E. IT",
+        "affilitated_by": "Pokhara University"
+      }
+    ]
+  },
+  {
+    "collegeName": "Gupteshwor Mahadev Multiple Campus(GMMC)",
+    "shortDescription": "Founded by diverse leaders, it offers BIM program, supported by the famous cave.",
+    "longDescription": "Gupteshwor Mahadev Multiple Campus was created by a group of prominent academics, political activists, religious leaders, and passionate social activists. It is supported by Gupteshwor Mahadev Cave. This campus is only a public, non-profit community center connected to Tribhuvan University. The eight semesters of the four-year Bachelor of Information Management programme are built on a semester-based curriculum.",
+    "address": "Chhorepatan-17,Pokhara, Kaski",
+    "contact": "061-455677",
+    "mail": "gupteshowrmmc@gmil.com",
+    "province": "Gandaki",
+    "image": "https://nepalkhoja.s3.us-east-2.amazonaws.com/a06f3d3b643e4f45d0a463cf7cd576d5-656.jpg",
+    "map": "https://maps.app.goo.gl/gJZ4xhBJRNTA3G226",
+    "website": "https://gmmc.edu.np/",
+    "courses": [
+      {
+        "courseName": "Bachelor of Information Management ",
+        "duration": "4 years",
+        "degree": "BIM",
+        "affilitated_by": "Tribhuvan University (TU)"
+      }
+    ]
+  },
+  {
+    "collegeName": "Janapriya Multiple Campus(JMC)",
+    "shortDescription": "A nonprofit institution offering Information Management under Tribhuvan University.",
+    "longDescription": "Janapriya Multiple Campus was established in 1991 A.D. It was constructed as a cooperative effort by fourteen academics, neighborhood benefactors, and neighborhood social organizations like Srijana Vikas Kendra. It is a non-profit academic organization connected to Nepal's Tribhuvan University.The eight semesters of the four-year Bachelor of Information Management programme are built on a semester-based curriculum.",
+    "address": "Old Airport, Janapriya Marga-8, Pokhara, Kaski",
+    "contact": "+977 0615818221/585287/572287/577723",
+    "mail": "office@janpariya.edu.np",
+    "province": "Gandaki",
+    "image": "https://saralnotes.com/wp-content/uploads/2019/11/Janapriya-Multiple-Campus-Building.jpg",
+    "map": "https://maps.app.goo.gl/nCvqjkSfK5Bb4e419",
+    "website": "https://janapriya.edu.np/",
+    "courses": [
+      {
+        "courseName": "Bachelor of Information Management ",
+        "duration": "4 years",
+        "degree": "BIM",
+        "affilitated_by": "Tribhuvan University (TU)"
+      }
+    ]
+  }
+]
